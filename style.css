@@ -34,3 +34,6 @@ input{
     /*this*/
     font-weight: 400;
 }
+input:focus{
+    border-bottom: 2px solid #b156fe;
+}
