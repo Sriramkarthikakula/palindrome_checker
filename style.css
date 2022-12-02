@@ -7,3 +7,17 @@
 body{
     background-color: #b156fe;
 }
+.container{
+    width: 35%;
+    /*this*/
+    min-width: 450px;
+    background-color: #ffffff;
+    padding: 50px 30px;
+    position: absolute;
+    /*this*/
+    transform: translate(-50%,-50%);
+    left:50%;
+    top:50%;
+    border-radius: 8px;
+    box-shadow: 0px 20px 25px rgba(0, 0, 0,0.18);
+}
